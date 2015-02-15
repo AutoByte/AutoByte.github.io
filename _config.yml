@@ -1,0 +1,9 @@
+name: "C&P Software"
+description: "New Cleaner Look for C&P Soft"
+
+url: "newsite.cp-soft.com"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
