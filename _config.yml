@@ -3,7 +3,7 @@ description: "New Cleaner Look for C&P Soft"
 
 url: "newsite.cp-soft.com"
 
-markdown: "kramdown"
+markdown: "rdiscount"
 paginate: 10
 
 permalink: pretty
