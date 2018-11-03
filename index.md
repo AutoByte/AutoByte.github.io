@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-#C&P Software
+# C&P Software
 
 Welcome to the new and improved C&P Software home page. 
 
