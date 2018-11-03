@@ -10,4 +10,4 @@ permalink: pretty
 gems:
 - yuml.rb
 
-theme: jekyll-theme-architect
+theme: jekyll-theme-dinky
