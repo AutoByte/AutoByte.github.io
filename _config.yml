@@ -1,13 +1,1 @@
-name: "C&P Software"
-description: "New Cleaner Look for C&P Soft"
-
-url: "newsite.cp-soft.com"
-
-paginate: 10
-
-permalink: pretty
-
-gems:
-- yuml.rb
-
 theme: jekyll-theme-architect
