@@ -3,7 +3,7 @@ title: About
 layout: default
 ---
 
-#About C&P Software
+# About C&P Software
 
 Hi!
 
