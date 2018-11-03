@@ -11,7 +11,7 @@ C&P Software has been in existence since 2001 and has been a part of several maj
 
 Our accomplishements include writting a state of the art real-time air defense system for NORAD, The database interface for an artificial intelligence digital assistant, designing and coding of the initial phase of an automated porting and migration tool and the stabilization of the Sprint PCS Vision system
 
-###Here are some of the core technologies on which C&P Software has developed competence and provided solutions:
+### Here are some of the core technologies on which C&P Software has developed competence and provided solutions:
 <ul>
 	<li>System Architecture & Networking</li>
 	<li>Full Stack Software/Hardware Development</li>
@@ -21,7 +21,7 @@ Our accomplishements include writting a state of the art real-time air defense s
 	<li>Real-Time Software Design and Construction</li>
 </ul>
 
-###C&P likes to abide first and foremost by the medical tenet: First, do no harm.
+### C&P likes to abide first and foremost by the medical tenet: *First, do no harm*.
 
 Borrowed from the tenets of medicine, this statement is one of the most basic principles of our method of work.
 
