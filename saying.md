@@ -3,7 +3,7 @@ title: Talk
 layout: default
 ---
 
-#What are people saying about C&P?
+# What are people saying about C&P?
 
 <hr>
 
